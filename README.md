@@ -1,1 +1,2 @@
 # Neural-Network-Optimization-Regularization-Strategy-for-Large-Scale-Tabular-Classification
+Developed and optimized a neural network classification pipeline for large-scale structured data (580K+ records), applying systematic hyperparameter tuning, regularization strategies, and learning rate scheduling to improve model performance and generalization. Implemented a reproducible experimentation framework with early stopping and performance tracking, achieving ~77.9% validation accuracy with minimal validation–test drift (~1.1%).
